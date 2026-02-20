@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Large audio files
+*.wav
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Diagnostic files
+audio_devices.txt
+verify_out.txt
+check_audio.py
+debug_env.py
