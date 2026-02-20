@@ -1,0 +1,5 @@
+soundcard
+soundfile
+numpy
+google-generativeai
+python-dotenv
