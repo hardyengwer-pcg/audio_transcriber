@@ -1,4 +1,0 @@
-﻿Loopback devices and their signal levels:
-  [0] U28E590 (HD Audio Driver for Display Audio): RMS=0.00000000 <-- SELECTED (strongest signal)
-  [1] Headphones (Jabra Evolve2 65): RMS=0.00000000 <-- SELECTED (strongest signal)
-  [2] Surface Omnisonic Speakers (4- SoundWire Audio): RMS=0.00000000 <-- SELECTED (strongest signal)
